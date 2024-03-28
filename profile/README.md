@@ -2,8 +2,8 @@
 
 Current LLM agents have limitations:
 
-- Hard to provide local tools, disabling features like auto-testing, auto-ssh and others
 - Undetectable illusions when lack of information or tools, compromising LLM powers
+- Hard to provide local tools, disabling features like auto-testing, auto-ssh and others
 
 Agent Lang addresses the problem by designing a **client-side** language as a interface of LLM interaction, so that
 
