@@ -15,6 +15,7 @@ Agent Lang addresses the problem by designing a **client-side** language as a in
 
 - [ ] Rust CLI for basic interaction
 - [ ] Basic tools like auto-testing and code-generation
+- [ ] Look for datasets and benchmark on them
 - [ ] IDE integration
 
 ## Contribution
